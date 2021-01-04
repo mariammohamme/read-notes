@@ -4,5 +4,5 @@
 --------------------
 | reading topics | URLs |
 |---|---|
-| Introduction  HTML and JavaScript | [click](https://mariammohamme.github.io/read-notes/class-01) |
+| Introduction  HTML and JavaScript | [click](https://mariammohamme.github.io/read-notes/class_01) |
 | Basics of HTML, CSS & JS | [click](https://mariammohamme.github.io/read-notes/class-02) |
