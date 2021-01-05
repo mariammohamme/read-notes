@@ -7,6 +7,7 @@
 |---|---|
 | Introduction  HTML and JavaScript | [click](https://mariammohamme.github.io/read-notes/class_01) |
 | Basics of HTML, CSS & JS | [click](https://mariammohamme.github.io/read-notes/class-02) |
+<<<<<<< HEAD
 | HTML Lists, Control Flow with JS, and the CSS Box Model| [click](https://mariammohamme.github.io/read-notes/class_03) |
 | HTML Links, CSS Layout, JS Functions | [click](https://mariammohamme.github.io/read-notes/class_04) |
 | JS Object Literals; The DOM | [click](https://mariammohamme.github.io/read-notes/class_05) |
@@ -18,3 +19,5 @@
 |  Docs for the HTML <canvas> Element & Chart.js | [click](https://mariammohamme.github.io/read-notes/class_11) |
 | Local Storage | [click](https://mariammohamme.github.io/read-notes/class_12) |
 |  CSS Transforms, Transitions, and Animations | [click](https://mariammohamme.github.io/read-notes/class_13) |
+| HTML Lists, Control Flow with JS, and the CSS Box Model| [click](https://mariammohamme.github.io/read-notes/class-03) |
+
