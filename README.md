@@ -7,7 +7,6 @@
 |---|---|
 | Introduction  HTML and JavaScript | [click](https://mariammohamme.github.io/read-notes/class_01) |
 | Basics of HTML, CSS & JS | [click](https://mariammohamme.github.io/read-notes/class-02) |
-<<<<<<< HEAD
 | HTML Lists, Control Flow with JS, and the CSS Box Model| [click](https://mariammohamme.github.io/read-notes/class_03) |
 | HTML Links, CSS Layout, JS Functions | [click](https://mariammohamme.github.io/read-notes/class_04) |
 | JS Object Literals; The DOM | [click](https://mariammohamme.github.io/read-notes/class_05) |
