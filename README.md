@@ -9,7 +9,7 @@
 | Basics of HTML, CSS & JS | [click](https://mariammohamme.github.io/read-notes/class-02) |
 | HTML Lists, Control Flow with JS, and the CSS Box Model| [click](https://mariammohamme.github.io/read-notes/class_03) |
 | HTML Links, CSS Layout, JS Functions | [click](https://mariammohamme.github.io/read-notes/class_04) |
-| JS Object Literals; The DOM | [click](https://mariammohamme.github.io/read-notes/class_05) |
+| Images, Color, Text | [click](https://mariammohamme.github.io/read-notes/class_05) |
 | HTML Tables; JS Constructor Functions | [click](https://mariammohamme.github.io/read-notes/class_06) |
 | More CSS Layout | [click](https://mariammohamme.github.io/read-notes/class_07) |
 | Forms and Events | [click](https://mariammohamme.github.io/read-notes/class_08) |
