@@ -10,6 +10,7 @@
 | HTML Lists, Control Flow with JS, and the CSS Box Model| [click](https://mariammohamme.github.io/read-notes/class_03) |
 | HTML Links, CSS Layout, JS Functions | [click](https://mariammohamme.github.io/read-notes/class_04) |
 | Images, Color, Text | [click](https://mariammohamme.github.io/read-notes/class_05) |
+| JS Object Literals; The DOM |[click] (https://mariammohamme.github.io/read-notes/class_15) |
 | HTML Tables; JS Constructor Functions | [click](https://mariammohamme.github.io/read-notes/class_06) |
 | More CSS Layout | [click](https://mariammohamme.github.io/read-notes/class_07) |
 | Forms and Events | [click](https://mariammohamme.github.io/read-notes/class_08) |

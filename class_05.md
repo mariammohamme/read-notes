@@ -80,6 +80,8 @@ have different widths.)
 ### style : Normal/ Italic /Oblique
 ### streetch : Condensed / Regular/ Extended
 ### font-family: this specifies the name of the font. 
+### font-weight : bold / normal
+
 
 
 
