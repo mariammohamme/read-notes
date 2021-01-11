@@ -1,4 +1,4 @@
- JS Object Literals; The DOM
+ ## JS Object Literals; The DOM
  ### when we want calling function we to need information like parameter you specify the value you want put in pranthess that flow this name 
  ## we can used arguent lik :
  - value ex: sum(2,5)
