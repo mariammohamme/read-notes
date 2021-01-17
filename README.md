@@ -16,7 +16,7 @@
 | Forms and Events | [click](https://mariammohamme.github.io/read-notes/class_08) |
 | Audio, Video, Images | [click](https://mariammohamme.github.io/read-notes/class_09) |
 |  Assorted Topics | [click](https://mariammohamme.github.io/read-notes/class_10) |
-|  Docs for the HTML <canvas> Element & Chart.js | [click](https://mariammohamme.github.io/read-notes/class_11) |
+|  Debugging | [click](https://mariammohamme.github.io/read-notes/class_11) |
 | Local Storage | [click](https://mariammohamme.github.io/read-notes/class_12) |
 |  CSS Transforms, Transitions, and Animations | [click](https://mariammohamme.github.io/read-notes/class_13) |
 |  CSS Transforms, Transitions, and Animations| [click](https://mariammohamme.github.io/read-notes/class_14a) |
