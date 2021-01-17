@@ -14,7 +14,7 @@
 | HTML Tables; JS Constructor Functions | [click](https://mariammohamme.github.io/read-notes/class_06) |
 | More CSS Layout | [click](https://mariammohamme.github.io/read-notes/class_07) |
 | Forms and Events | [click](https://mariammohamme.github.io/read-notes/class_08) |
-| JS Debugging | [click](https://mariammohamme.github.io/read-notes/class_09) |
+| Audio, Video, Images | [click](https://mariammohamme.github.io/read-notes/class_09) |
 |  Assorted Topics | [click](https://mariammohamme.github.io/read-notes/class_10) |
 |  Docs for the HTML <canvas> Element & Chart.js | [click](https://mariammohamme.github.io/read-notes/class_11) |
 | Local Storage | [click](https://mariammohamme.github.io/read-notes/class_12) |
