@@ -18,7 +18,7 @@
 |  Assorted Topics | [click](https://mariammohamme.github.io/read-notes/class_10) |
 |  Debugging | [click](https://mariammohamme.github.io/read-notes/class_11) |
 | Chart.js, Canvas | [click](https://mariammohamme.github.io/read-notes/class_12) |
-|  CSS Transforms, Transitions, and Animations | [click](https://mariammohamme.github.io/read-notes/class_13) |
+|  Local Storage | [click](https://mariammohamme.github.io/read-notes/class_13) |
 |  CSS Transforms, Transitions, and Animations| [click](https://mariammohamme.github.io/read-notes/class_14a) |
 | What Google Learned About Teams| [click](https://mariammohamme.github.io/read-notes/class_14b) |
 
