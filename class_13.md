@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What Google Learned About Teams
 - The company’s top executives long believed that building the best teams meant combining the best people
 - project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked. Were the best teams made up of people with similar interests? Or did it matter more whether everyone was motivated by the same kinds of rewards? Based on those studies, the researchers scrutinized the composition of groups inside Google: How often did teammates socialize outside the office? Did they have the same hobbies? Were their educational backgrounds similar? Was it better for all teammates to be outgoing or for all of them to be shy? They drew diagrams showing which teams had overlapping memberships and which groups had exceeded their departments’ goals. They studied how long teams stuck together and if gender balance seemed to have an impact on a team’s success.
@@ -9,3 +10,19 @@
 - They hadn’t yet figured out how to make psychological safety easy, but they hoped that publicizing their research within Google would prompt employees to come up with some ideas of their own.
 - ‘‘To have Matt stand there and tell us that he’s sick and he’s not going to get better and, you know, what that means,’’ Laurent said. ‘‘It was a really hard, really special moment.’’
 
+=======
+# Local Storage
+- Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over
+- Cookies are included with every HTTP request, thereby sending data unencrypted over the internet (unless your entire web application is served over SSL)
+- Cookies are limited to about 4 KB of data — enough to slow down your application (see above), but not enough to be terribly useful
+### What we really want is
+------------------
+- a lot of storage space on the client
+- that persists beyond a page refresh and isn’t transmitted to the server
+## what is HTML5 Storage?
+----------------------
+ Simply put, it’s a way for web pages to store named key/value pairs locally, within the client web browser. Like cookies, this data persists even after you navigate away from the web site, close your browser tab, exit your browser, or what have you. Unlike cookies, this data is never transmitted to the remote web server (unless you go out of your way to send it manually). Unlike all previous attempts at providing persistent local storage, it is implemented natively in web browsers, so it is available even when third-party browser plugins are not.
+ - track programmatically of when the storage area changes, you can trap the storage event. The storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something. For example, if you set an item to its existing value or call clear() when there are no named keys, the storage event will not fire, because nothing actually changed in the storage area.
+ - if you’ve used more than one database product in your life, you are aware that “SQL” is more of a marketing term than a hard-and-fast standard. (Some would say the same of “HTML5,” but never mind that.) Sure, there is an actual SQL specification (it’s called SQL-92), but there is no database server in the world that conforms to that and only that specification. There’s Oracle’s SQL, Microsoft’s SQL, MySQL’s SQL, PostgreSQL’s SQL, and SQLite’s SQL. Indeed, each of these products adds new SQL features over time, so even saying “SQLite’s SQL” is not sufficient to pin down exactly what you’re talking about. You need to say “the version of SQL that shipped with SQLite version X.Y.Z.”
+ 
+>>>>>>> 45f5205e82c471d751dd20f62d4eb67409f5007b
