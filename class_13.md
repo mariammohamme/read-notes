@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # What Google Learned About Teams
 - The company’s top executives long believed that building the best teams meant combining the best people
 - project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked. Were the best teams made up of people with similar interests? Or did it matter more whether everyone was motivated by the same kinds of rewards? Based on those studies, the researchers scrutinized the composition of groups inside Google: How often did teammates socialize outside the office? Did they have the same hobbies? Were their educational backgrounds similar? Was it better for all teammates to be outgoing or for all of them to be shy? They drew diagrams showing which teams had overlapping memberships and which groups had exceeded their departments’ goals. They studied how long teams stuck together and if gender balance seemed to have an impact on a team’s success.
@@ -9,8 +8,6 @@
 - what was confusing was that not all the good teams appeared to behave in the same ways. ‘‘Some teams had a bunch of smart people who figured out how to break up work evenly,’’ said Anita Woolley, the study’s lead author. ‘‘Other groups had pretty average members, but they came up with ways to take advantage of everyone’s relative strengths. Some groups had one strong leader. Others were more fluid, and everyone took a leadership role
 - They hadn’t yet figured out how to make psychological safety easy, but they hoped that publicizing their research within Google would prompt employees to come up with some ideas of their own.
 - ‘‘To have Matt stand there and tell us that he’s sick and he’s not going to get better and, you know, what that means,’’ Laurent said. ‘‘It was a really hard, really special moment.’’
-
-=======
 # Local Storage
 - Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over
 - Cookies are included with every HTTP request, thereby sending data unencrypted over the internet (unless your entire web application is served over SSL)
@@ -25,4 +22,3 @@
  - track programmatically of when the storage area changes, you can trap the storage event. The storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something. For example, if you set an item to its existing value or call clear() when there are no named keys, the storage event will not fire, because nothing actually changed in the storage area.
  - if you’ve used more than one database product in your life, you are aware that “SQL” is more of a marketing term than a hard-and-fast standard. (Some would say the same of “HTML5,” but never mind that.) Sure, there is an actual SQL specification (it’s called SQL-92), but there is no database server in the world that conforms to that and only that specification. There’s Oracle’s SQL, Microsoft’s SQL, MySQL’s SQL, PostgreSQL’s SQL, and SQLite’s SQL. Indeed, each of these products adds new SQL features over time, so even saying “SQLite’s SQL” is not sufficient to pin down exactly what you’re talking about. You need to say “the version of SQL that shipped with SQLite version X.Y.Z.”
  
->>>>>>> 45f5205e82c471d751dd20f62d4eb67409f5007b
